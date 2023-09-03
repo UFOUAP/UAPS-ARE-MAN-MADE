@@ -8,16 +8,28 @@ Please refer to the PDFs and other documents in this repository for the mathemat
 ---
 
 ## Who:
-A foreign adversary with space capabilities, involving a significant number of recent space launches and payloads. This adversary is known for its high-tech manufacturing capabilities and a strong desire to use surveillance as a means to collect intelligence. They may also possess extensive experience in entertainment, including the use of invisible wires for various purposes.
+A foreign adversary with space capabilities, involving a significant number of recent space launches and payloads. This adversary is known for its high-tech manufacturing capabilities and a strong desire to use surveillance as a means to collect intelligence. They may also possess extensive experience in entertainment, including the use of invisible wires for various purposes (such as filiming martial artists who posses the magical skill of flight) achieved also through invisible wires.
 
 ## What:
 Lightweight surveillance probes suspended by invisible woven fiber-optic cables. These high-strength data transmission cables are lowered or dropped from low Earth geosynchronous orbit satellites.
 
 ## Why:
-The purpose is to collect military and industrial data.
+Simple SPY EAVESDROPPING on opponent from stealth. The purpose is to monitor, spy, steal, and or collect MILITARY and industrial data silently without any noise and with minimal electronic exposure.
 
 ## How:
 Sensor probes may come in various designs and configurations, including single tether and multi-tether setups that can be implemented with small maneuverable satellites. The probes are allowed to spool ahead of the satellite by many miles, and the invisible clear glass cables are kept taut, allowing the maneuvering of a probe to be a matter of simply using compressed air thrusters. Refer to the included documents for more details.
+
+## HOW 2:
+A large spool of custom braided transparent FIBER OPTIC cable is delivered to a SATELLITE or SPACE Station , it is then attached to small micro-satelites equiped with a high performance FISHING REEL and low cost compressed air THRUSTERS. If the SPY PROBE is detected the highly maneuverable SATELLITE may also have a small rocket propellant thruster that allows rapid evasion.
+
+-------
+
+## HOW UAPs TRAVEL THOUSANDS OF KPH/MPH WITH NO APPARENT PROPULSION. 
+UAPs have been observed to travel 2000MPH. How this is performed.
+Its is not really that hard to do, in fact this is very siple newtonian mechanics, any object traveling at nearly 17,000 MPH simply needs to fire an inverse thruster in any available opposing direction to its current vector. From the observer (inside the atmosphere) or at the surface of the Earth will see the object move away from their observational position at high speed.
+Simply put these UAPs are suspended from one or more clear glass WOVEN fiber optic  cables. There is no propulsion because the movement and control of the SENSOR probe is a product of the GEO-SYNC satellite hundreds of miles above.
+
+##
 
 -------
 
