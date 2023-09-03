@@ -1,12 +1,21 @@
-# HOW UAP Work
-Links, articles, &amp; research for UFO UAP explanation
+# UAP and UFO Origin Exposed
 
--------
-WHO : 
-Some foreign Adversary with SPACE CAPABILITY 
+## How UAPs Actually Work
+Please refer to the PDFs and other documents in this repository for the mathematical and physical evidence that supports the following postulations. All apparent observations of UAP performance and flight capabilities can be explained simply using orbital mechanics, tensile strength of materials, and good old-fashioned ingenuity.
 
-HOW:
-Light weight SURVEILLANCE PROBES droped low earth GEO SYNC orbit satellites, suspended by invisible WOVEN FIBER OPTIC cables. 
+---
+
+## Who:
+A foreign adversary with space capabilities, involving a significant number of recent space launches and payloads. This adversary is known for its high-tech manufacturing capabilities and a strong desire to use surveillance as a means to collect intelligence. They may also possess extensive experience in entertainment, including the use of invisible wires for various purposes.
+
+## What:
+Lightweight surveillance probes suspended by invisible woven fiber-optic cables. These high-strength data transmission cables are lowered or dropped from low Earth geosynchronous orbit satellites.
+
+## Why:
+The purpose is to collect military and industrial data.
+
+## How:
+Sensor probes may come in various designs and configurations, including single tether and multi-tether setups that can be implemented with small maneuverable satellites. The probes are allowed to spool ahead of the satellite by many miles, and the invisible clear glass cables are kept taut, allowing the maneuvering of a probe to be a matter of simply using compressed air thrusters. Refer to the included documents for more details.
 
 -------
 
