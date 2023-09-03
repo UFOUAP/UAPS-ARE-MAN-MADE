@@ -1,5 +1,12 @@
-# BIBLIO
+# HOW UAP Work
 Links, articles, &amp; research for UFO UAP explanation
+
+-------
+WHO : 
+Some foreign Adversary with SPACE CAPABILITY 
+
+HOW:
+Light weight SURVEILLANCE PROBES droped low earth GEO SYNC orbit satellites, suspended by invisible WOVEN FIBER OPTIC cables. 
 
 -------
 
