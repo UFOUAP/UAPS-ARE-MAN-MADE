@@ -1,7 +1,9 @@
-# UAP and UFO Origin Exposed
+# WORLDWIDE EXCLUSIVE: UAP and UFO Origin Exposed
+
+September 1st 2023
 
 ## How UAPs Actually Work
-Please refer to the PDFs and other documents in this repository for the mathematical and physical evidence that supports the following postulations. All apparent observations of UAP performance and flight capabilities can be explained simply using orbital mechanics, tensile strength of materials, and good old-fashioned ingenuity.
+Please refer to the PDFs and other documents in this repository for the mathematical and physical evidence that supports the following postulations. All apparent observations of UAP performance and flight capabilities can be explained simply using orbital mechanics, tensile strength of materials, and good old-fashioned ingenuity. We have been looking at this method for PILOTING UAPs from space for a few months and the following is the MOST REASONABLE and PROBABLE answer. Th matha nd physics literature to support this is INCLUDED in this repository.
 
 [https://en.wikipedia.org/wiki/Space_tether_missions](https://en.wikipedia.org/wiki/Space_tether_missions)
 
