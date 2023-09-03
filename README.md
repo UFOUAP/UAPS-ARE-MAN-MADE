@@ -3,6 +3,8 @@
 ## How UAPs Actually Work
 Please refer to the PDFs and other documents in this repository for the mathematical and physical evidence that supports the following postulations. All apparent observations of UAP performance and flight capabilities can be explained simply using orbital mechanics, tensile strength of materials, and good old-fashioned ingenuity.
 
+[https://en.wikipedia.org/wiki/Space_tether_missions](https://en.wikipedia.org/wiki/Space_tether_missions)
+
 ---
 
 ## Who:
