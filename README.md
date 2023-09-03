@@ -31,9 +31,11 @@ A large spool of custom braided transparent FIBER OPTIC cable is delivered to a 
 ## HOW UAPs TRAVEL THOUSANDS OF KPH/MPH WITH NO APPARENT PROPULSION. 
 UAPs have been observed to travel 2000MPH. How this is performed.
 Its is not really that hard to do, in fact this is very siple newtonian mechanics, any object traveling at nearly 17,000 MPH simply needs to fire an inverse thruster in any available opposing direction to its current vector. From the observer (inside the atmosphere) or at the surface of the Earth will see the object move away from their observational position at high speed.
-Simply put these UAPs are suspended from one or more clear glass WOVEN fiber optic  cables. There is no propulsion because the movement and control of the SENSOR probe is a product of the GEO-SYNC satellite hundreds of miles above.
+Simply put these UAPs are suspended from one or more clear glass WOVEN fiber optic  cables. There is no propulsion because the movement and control of the SENSOR probe is a product of the GEO-SYNC satellite hundreds of miles above firing a THRUSTER in the opposite vector.  Becasue the object suspended from the cable is taut at the end of the cable it will suddenly move away from observer at thousands of miles per hour. It is not MAGIC and it is NOT a new drive. The space END of the ANCHOR is moving 17k MPH and the low atmoshere end of the puppet is moving only a few hundred miles.  The HIGH speed it a factor of The magic of GEO SYNC orbit with a very long string. 
 
-##
+##  OCCAM's RAZOR
+Dropping an object down into atmoshere VERY SLOWLY from a GEO SYNC orbit will prevent heating of the cable. The uppoer part of the cable is shielded against friction, the atmoshere is very thin so particles are far apart, where the cable then tappers off, down to just a few fiber CLEAR optic threads down where it is connected to the the SPY PROBE sensor. The sensors weigh only a few dozen pounds and are often mounted on a GIMBLE inside of a clear plastic sphere, that allows device rotation and adaptive camera positioning.
+Essientially we have a sensor on the end of a stiff fishing line dropped into the atmosphere. Which explains why the objects shot down have been found to have "STRINGS" attached to them. Additionally the might use plastic shells to prevent the device from being snagged in the wind. Coat the capsule/tic-tac with teflon and or a reflective MYLAR and the object will look metallic. 
 
 -------
 
