@@ -160,6 +160,75 @@ $$ r = \left( \frac{G M_E T^2}{4 \pi^2} \right)^{1/3} $$
 
 Using these equations, we can model the mechanics of geosynchronous satellite orbits, ensuring they remain fixed relative to a point on Earth's surface and providing the necessary foundation for deploying tethers and surveillance probes as described.
 
+---
+
+To analyze the effective velocity of an object at the bottom of a 100-mile tether lowered from a geosynchronous satellite and how it can be held stationary from an observer on the ground, we need to consider several aspects of orbital mechanics and relative velocities.
+
+## Effective Velocity Calculation of Stationary Object suspended by Satellite in GeoSync orbit
+
+### 1. Geosynchronous Orbit Velocity
+
+First, we need to recall the velocity of a satellite in geosynchronous orbit (GEO). As derived earlier, the orbital velocity $ v_{geo} $ for a geosynchronous satellite is:
+
+$$ v_{geo} = \sqrt{\frac{G M_E}{r_{geo}}} $$
+
+Where:
+- $ G $ is the gravitational constant ($ 6.67430 \times 10^{-11} \, \text{m}^3 \text{kg}^{-1} \text{s}^{-2} $).
+- $ M_E $ is the mass of the Earth ($ 5.972 \times 10^{24} \, \text{kg} $).
+- $ r_{geo} $ is the radius of geosynchronous orbit ($ \approx 42,164 \, \text{km} $).
+
+Using these values, we previously found:
+
+$$ v_{geo} \approx 3.07 \, \text{km/s} $$
+
+## 2. Object at the Bottom of the Tether
+
+Let's consider an object at the bottom of a 100-mile (approximately 160 km) tether. The total distance from the center of the Earth to the object is:
+
+$$ r_{tether} = r_{geo} - 160 \, \text{km} $$
+
+$$ r_{tether} = 42,164 \, \text{km} - 0.160 \, \text{km} $$
+
+$$ r_{tether} \approx 42,004 \, \text{km} $$
+
+Since the tether is rigid, the object at the bottom shares the same angular velocity $ \omega $ as the satellite. The angular velocity of a geosynchronous satellite is given by:
+
+$$ \omega = \frac{2 \pi}{T} $$
+
+Where $ T $ is the orbital period (one sidereal day, $ T \approx 86,164 \, \text{s} $):
+
+$$ \omega = \frac{2 \pi}{86,164 \, \text{s}} $$
+
+$$ \omega \approx 7.272 \times 10^{-5} \, \text{rad/s} $$
+
+The linear velocity $ v_{tether} $ of the object at the bottom of the tether is:
+
+$$ v_{tether} = \omega \cdot r_{tether} $$
+
+Substituting the values:
+
+$$ v_{tether} = 7.272 \times 10^{-5} \, \text{rad/s} \cdot 42,004 \times 10^3 \, \text{m} $$
+
+$$ v_{tether} \approx 3.05 \, \text{km/s} $$
+
+# Stationary Object Relative to Ground Observer
+
+To hold the object at the base of the tether stationary relative to an observer on the ground, the following conditions must be met:
+
+1. **Matching Angular Velocity**: The object must rotate with the same angular velocity as the Earth's rotation. This is inherently achieved in a geosynchronous orbit.
+
+2. **Maintaining Vertical Position**: The tether must be of sufficient strength and rigidity to counteract gravitational and atmospheric drag forces, keeping the object fixed at a specific altitude.
+
+Since the object at the end of the tether shares the same angular velocity as the satellite, it appears stationary relative to the ground observer due to the synchronization with the Earth's rotation. The linear velocity $ v_{tether} $ ensures that the object moves at the same rotational speed as any point on the Earth's surface directly below it.
+
+### Summary
+
+- **Effective Velocity**: The effective linear velocity of the object at the bottom of the 100-mile tether is approximately 3.05 km/s, slightly less than the satellite's velocity due to its lower altitude.
+- **Stationary Appearance**: The object can be held stationary relative to an observer on the ground because it rotates with the same angular velocity as the Earth's rotation, due to the tether maintaining a constant angular velocity with the geosynchronous satellite.
+
+This setup allows for the object to remain seemingly fixed in the sky, appearing motionless relative to an observer on the ground, effectively creating a stationary surveillance platform.
+
+---
 September 1st 2023
 
 ![UAP from Sattelite](https://upload.wikimedia.org/wikipedia/commons/f/ff/Yes2everest.jpg)
