@@ -74,15 +74,15 @@ First, let's consider the force of gravity between the Earth and the satellite:
 $$ F = \frac{G M_E m}{r^2} $$
 
 where:
-- \( F \) is the gravitational force.
-- \( G \) is the gravitational constant (\( 6.67430 \times 10^{-11} \, \text{m}^3 \text{kg}^{-1} \text{s}^{-2} \)).
-- \( M_E \) is the mass of the Earth (\( 5.972 \times 10^{24} \, \text{kg} \)).
-- \( m \) is the mass of the satellite.
-- \( r \) is the distance between the center of the Earth and the satellite.
+- $F$ is the gravitational force.
+- $G$ is the gravitational constant $( 6.67430 \times 10^{-11} \, \text{m}^3 \text{kg}^{-1} \text{s}^{-2} )$.
+- $M_E$ is the mass of the Earth $( 5.972 \times 10^{24} \, \text{kg} )$.
+- $m$ is the mass of the satellite.
+- $r$ is the distance between the center of the Earth and the satellite.
 
 ### 2. Centripetal Force and Circular Orbits
 
-For a satellite in a stable orbit, the gravitational force provides the necessary centripetal force to keep the satellite in orbit. The centripetal force needed for a satellite to move in a circular orbit at a constant speed \( v \) is given by:
+For a satellite in a stable orbit, the gravitational force provides the necessary centripetal force to keep the satellite in orbit. The centripetal force needed for a satellite to move in a circular orbit at a constant speed $v$ is given by:
 
 $$ F_c = \frac{m v^2}{r} $$
 
@@ -116,11 +116,11 @@ $$ r^3 \approx 7.496 \times 10^{22} \, \text{m}^3 $$
 
 $$ r \approx 42,164 \, \text{km} $$
 
-This distance is from the center of the Earth, so the altitude \( h \) above the Earth's surface is:
+This distance is from the center of the Earth, so the altitude $h$ above the Earth's surface is:
 
 $$ h = r - R_E $$
 
-where \( R_E \) is the Earth's radius (\( \approx 6,371 \, \text{km} \)):
+where $R_E$ is the Earth's radius $( \approx 6,371 \, \text{km} )$:
 
 $$ h \approx 42,164 \, \text{km} - 6,371 \, \text{km} $$
 
@@ -168,14 +168,14 @@ To analyze the effective velocity of an object at the bottom of a 100-mile tethe
 
 ### 1. Geosynchronous Orbit Velocity
 
-First, we need to recall the velocity of a satellite in geosynchronous orbit (GEO). As derived earlier, the orbital velocity $ v_{geo} $ for a geosynchronous satellite is:
+First, we need to recall the velocity of a satellite in geosynchronous orbit (GEO). As derived earlier, the orbital velocity $$ v_{geo} $$ for a geosynchronous satellite is:
 
 $$ v_{geo} = \sqrt{\frac{G M_E}{r_{geo}}} $$
 
 Where:
-- $ G $ is the gravitational constant ($ 6.67430 \times 10^{-11} \, \text{m}^3 \text{kg}^{-1} \text{s}^{-2} $).
-- $ M_E $ is the mass of the Earth ($ 5.972 \times 10^{24} \, \text{kg} $).
-- $ r_{geo} $ is the radius of geosynchronous orbit ($ \approx 42,164 \, \text{km} $).
+- $G$ is the gravitational constant ($6.67430 \times 10^{-11} \, \text{m}^3 \text{kg}^{-1} \text{s}^{-2}$).
+- $M_E$ is the mass of the Earth ($5.972 \times 10^{24} \, \text{kg}$).
+- $r_{geo}$ is the radius of geosynchronous orbit ($\approx 42,164 \, \text{km}$).
 
 Using these values, we previously found:
 
@@ -191,17 +191,17 @@ $$ r_{tether} = 42,164 \, \text{km} - 0.160 \, \text{km} $$
 
 $$ r_{tether} \approx 42,004 \, \text{km} $$
 
-Since the tether is rigid, the object at the bottom shares the same angular velocity $ \omega $ as the satellite. The angular velocity of a geosynchronous satellite is given by:
+Since the tether is rigid, the object at the bottom shares the same angular velocity $\omega$ as the satellite. The angular velocity of a geosynchronous satellite is given by:
 
 $$ \omega = \frac{2 \pi}{T} $$
 
-Where $ T $ is the orbital period (one sidereal day, $ T \approx 86,164 \, \text{s} $):
+Where $T$ is the orbital period (one sidereal day, $T \approx 86,164 \, \text{s}$):
 
 $$ \omega = \frac{2 \pi}{86,164 \, \text{s}} $$
 
 $$ \omega \approx 7.272 \times 10^{-5} \, \text{rad/s} $$
 
-The linear velocity $ v_{tether} $ of the object at the bottom of the tether is:
+The linear velocity $v_{tether}$ of the object at the bottom of the tether is:
 
 $$ v_{tether} = \omega \cdot r_{tether} $$
 
